@@ -8,4 +8,4 @@ The most downloaded files are [WinRAR](https://gitlab.com/fozalors/fountaine/-/r
 \
 However if you like, you can more stuff like an alternate web browser like Maxthon or Waterfox.
 
-Here's the page to all the downloads we have: [download-links.md](../download-links.md "mention")
+Here's the page to all the downloads we have: [download-links](../download-links/ "mention")
