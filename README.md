@@ -10,4 +10,4 @@ This series of files lets you play Fortnite on GeforceNOW (free), Amazon Luna (P
 \
 It also lets you bypass school websites restrictions, uninstall lanschool, or completly make your computer kind of untrackable.\
 \
-Read the instructions: [https://i.cantv.us/](https://i.cantv.us/)
+More Info/Instructions: [https://i.cantv.us/](https://i.cantv.us/)
