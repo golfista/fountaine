@@ -15,3 +15,4 @@
 * [☁ No downloads please](no-downloads-please.md)
   * [ℹ Information](no-downloads-please/information.md)
 * [🌐 List of websites](list-of-websites.md)
+* [🙌 Suggestions and Feedback!](suggestions-and-feedback.md)
