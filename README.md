@@ -1,7 +1,7 @@
 ---
 description: >-
   Cantv (formerly know as "XD folder") is a series of files that aims to try and
-  bypass school devices restrictions. (Windows only as of codename: Fountaine)
+  bypass school devices restrictions. (Windows only as of codename: Fontaine)
 ---
 
 # Introduction
