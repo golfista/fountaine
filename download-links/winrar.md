@@ -19,6 +19,10 @@ WinRAR (a.k.a. RAR) is a shareware file archiver and data compression program cr
 ## [Click Here To Download](https://gitlab.com/fozalors/fountaine/-/raw/main/apps/winrar.zip?ref\_type=heads)
 {% endtab %}
 
+{% tab title="Source" %}
+{% file src="../.gitbook/assets/winrar.zip" %}
+{% endtab %}
+
 {% tab title="OneDrive" %}
 ## Its down.
 {% endtab %}
