@@ -5,8 +5,6 @@ coverY: 0
 
 # 📐 How to run programs that normally won't run.
 
-{% file src="../.gitbook/assets/tutorial school (1).mp4" %}
-
 **First,** you need to go to your downloads on chrome/edge, should be at the top right corner of the screen or down left **(quick shortcut Ctrl + J)** [or click here.](chrome://downloads)
 
 **Find the program that you want to run.**
