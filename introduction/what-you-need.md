@@ -23,7 +23,7 @@ layout:
 
 ***
 
-## If you are too lazy to download all of this stuff, go to [no-downloads-please](../no-downloads-please/ "mention").
+## If you are too lazy to download all of this stuff, go to [no-downloads-please.md](../no-downloads-please.md "mention").
 
 ***
 

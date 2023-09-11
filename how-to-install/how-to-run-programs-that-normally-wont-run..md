@@ -1,5 +1,5 @@
 ---
-description: WinRAR should be already installed.
+description: WinRAR should be already installed and open.
 coverY: 0
 ---
 
