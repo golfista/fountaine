@@ -4,7 +4,7 @@ description: >-
   bypass school devices restrictions. (Windows only as of codename: Fontaine)
 ---
 
-# Introduction
+# ⭐ Introduction
 
 This series of files lets you play Fortnite on GeforceNOW (free), Amazon Luna (Prime, Paid), Boosteroid (Paid), or Parsec! (self-hosted).\
 \
