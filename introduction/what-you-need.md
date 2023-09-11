@@ -4,7 +4,7 @@ description: school computer of course
 
 # 🖇 What you need
 
-## Yes, [WinRAR](../download-links/winrar.md) is a requirement
+## Yes, [WinRAR](../download-links/winrar.md) is a requirement if you want to download stuff.
 
 ***
 
