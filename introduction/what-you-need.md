@@ -1,5 +1,20 @@
 ---
 description: school computer of course
+coverY: 477
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🖇 What you need
@@ -8,7 +23,7 @@ description: school computer of course
 
 ***
 
-## If you are too lazy to download all of this stuff, go to [no-downloads-please.md](../no-downloads-please.md "mention").
+## If you are too lazy to download all of this stuff, go to [no-downloads-please](../no-downloads-please/ "mention").
 
 ***
 

@@ -12,4 +12,6 @@
   * [🌐 Waterfox](download-links/waterfox.md)
 * [🔨 How to install](how-to-install/README.md)
   * [📐 How to run programs that normally won't run.](how-to-install/how-to-run-programs-that-normally-wont-run..md)
-* [☁ No downloads please](no-downloads-please.md)
+* [☁ No downloads please](no-downloads-please/README.md)
+  * [ℹ Information](no-downloads-please/information.md)
+* [🌐 List of websites](list-of-websites.md)
