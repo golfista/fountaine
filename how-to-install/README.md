@@ -32,13 +32,13 @@ If you are here is because you have downloaded everything that you need, or wann
 
 **Find WinRAR.**
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Here's on the recent's downloads</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Here's on the recent's downloads</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Here's on the downloads menu</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Here's on the downloads menu</p></figcaption></figure>
 
 Then, you open that file, you should see this.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>It opens file explorer.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>It opens file explorer.</p></figcaption></figure>
 
 After that, you need to open that folder, and then find the .exe that is called **"WinRAR.exe"**.
 
@@ -46,7 +46,7 @@ After that, you need to open that folder, and then find the .exe that is called 
 
 After that, a window will pop up, you will hit **"Run"**
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>The middle one.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>The middle one.</p></figcaption></figure>
 
 After that, WinRAR will open and you will have winrar semi-installed on the system you did this!
 
