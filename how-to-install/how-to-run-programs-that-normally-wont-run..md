@@ -15,7 +15,7 @@ coverY: 0
 
 After that, you will grab the zip file from the browser, and then drag it to WinRAR.
 
-<figure><img src="../.gitbook/assets/tutorial school (1).gif" alt=""><figcaption><p>It's simple.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/tutorial school (1).gif" alt=""><figcaption><p>WinRAR should be already opened, It's simple.</p></figcaption></figure>
 
 After that, you need to find the .exe file that opens the program, this can vary, but should be pretty simple to find.
 
