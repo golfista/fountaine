@@ -27,11 +27,11 @@ Wikipedia is a free online encyclopedia website in 334 languages of the world, 3
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}
-{% tab title="GitHub" %}
+{% tab title="GitLab" %}
 ## Click Here To Download
 {% endtab %}
 
-{% tab title="GitLab" %}
+{% tab title="GitHub" %}
 ## Click Here To Download
 {% endtab %}
 

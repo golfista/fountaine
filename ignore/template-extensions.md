@@ -31,16 +31,16 @@ chrome/edge webstore url here
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}
-{% tab title="GitHub" %}
-## Click Here To Download
+{% tab title="Source" %}
+
 {% endtab %}
 
 {% tab title="GitLab" %}
 ## Click Here To Download
 {% endtab %}
 
-{% tab title="Source" %}
-
+{% tab title="GitHub" %}
+## Click Here To Download
 {% endtab %}
 
 {% tab title="OneDrive" %}
