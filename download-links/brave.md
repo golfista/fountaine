@@ -44,3 +44,5 @@ Brave is a free and open-source web browser developed by Brave Software, Inc. ba
 {% endtabs %}
 
 ### Done? Check [How to install](../how-to-install/) if you have everything you need.
+
+### Click [here](../extensions/) if you need extensions.

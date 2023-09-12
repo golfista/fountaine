@@ -48,3 +48,5 @@ Waterfox is a free and open-source web browser and fork of Firefox. It claims to
 {% endtabs %}
 
 ### Done? Check [How to install](../how-to-install/) if you have everything you need.
+
+### Click [here](../extensions/) if you need extensions.

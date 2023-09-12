@@ -64,4 +64,4 @@ chrome/edge webstore url here
 {% endtab %}
 {% endtabs %}
 
-### Done? Check [How to install extensions](../how-to-install/how-to-install-extension-on-another-browser.md) if you have everything you need.
+### Done? Check [How to install extensions](../extensions/how-to-install-extension-on-another-browser.md) if you have everything you need.

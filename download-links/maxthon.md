@@ -44,3 +44,5 @@ Maxthon is a freeware web browser, created by JeffChen in Singapore. It is avail
 {% endtabs %}
 
 ### Done? Check [How to install](../how-to-install/) if you have everything you need.
+
+### Click [here](../extensions/) if you need extensions.

@@ -63,4 +63,4 @@ Surfshark is a brand of VPN services offered by a Netherlands-based company\[1] 
 {% endtab %}
 {% endtabs %}
 
-### Done? Check [How to install extensions](../how-to-install/how-to-install-extension-on-another-browser.md) if you have everything you need.
+### Done? Check [How to install extensions](how-to-install-extension-on-another-browser.md) if you have everything you need.
