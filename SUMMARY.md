@@ -26,6 +26,7 @@
 * [☁ No downloads please](no-downloads-please.md)
   * [ℹ Information](no-downloads-please/information.md)
 * [🌐 List of websites](list-of-websites.md)
+* [🚘 List of proxies (p2p)](list-of-proxies-p2p.md)
 * [🚫 Network Test \[BETA\]](network-test/README.md)
   * [👁🗨 Network test](network-test/network-test.md)
 * [🙌 Suggestions and Feedback!](suggestions-and-feedback.md)
