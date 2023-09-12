@@ -22,7 +22,7 @@ layout:
 
 # 🧩 Extensions
 
-[How to install extension guide here](how-to-install-extension-on-another-browser.md)
+### [How to install extensions guide here](../how-to-install/how-to-install-extension-on-another-browser.md)
 
 ## List of extensions
 

@@ -17,7 +17,7 @@
 * [🗄 Setup](setup.md)
   * [📶 Parsec (Host)](setup/parsec-host.md)
 * [🧩 Extensions](extensions/README.md)
-  * [📏 How to install extension on another browser](extensions/how-to-install-extension-on-another-browser.md)
+  * [📏 How to install extension on another browser](how-to-install/how-to-install-extension-on-another-browser.md)
   * [📶 Surfshark](extensions/surfshark.md)
   * [🌎 Proxy SwitchyOmega](extensions/proxy-switchyomega.md)
   * [🔑 Dashlane](extensions/dashlane.md)
