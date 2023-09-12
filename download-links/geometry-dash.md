@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/cfb9b3eb-858a-45be-92e6-914a8be815c4-focalors-social.jpg
-coverY: 0
+cover: ../.gitbook/assets/capsule_616x353.jpg
+coverY: 59
 layout:
   cover:
     visible: true
@@ -26,12 +26,8 @@ Geometry Dash can be played with a touchscreen, keyboard, mouse, or controller. 
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}
-{% tab title="GitHub" %}
-## Click Here To Download
-{% endtab %}
-
 {% tab title="GitLab" %}
-## Click Here To Download
+## [Click Here To Download](https://gitlab.com/fozalors/fountaine/-/raw/main/apps/Geometry\_Dash\_v2.11.zip)
 {% endtab %}
 
 {% tab title="Source" %}
@@ -39,23 +35,23 @@ Geometry Dash can be played with a touchscreen, keyboard, mouse, or controller. 
 {% endtab %}
 
 {% tab title="OneDrive" %}
-## Click Here To Download
+## [Click Here To Download](https://1drv.ms/u/s!AkX2q12uku0fgfB3kQloYKFvZoqEdA?e=p83Lol)
 {% endtab %}
 
 {% tab title="Discord" %}
-## Click Here To Download
-{% endtab %}
-
-{% tab title="Cloudflare" %}
-## Click Here To Download
+## [Click Here To Download](https://cdn.discordapp.com/attachments/1113994556787146843/1150974661065195620/Geometry\_Dash\_v2.11.zip)
 {% endtab %}
 
 {% tab title="Drive" %}
-## Click Here To Download
+## [Click Here To Download](https://drive.google.com/file/d/1eL9koJI7xW0EEXoJjyZKGJNbhZd6cco3/view?usp=drive\_link)
 {% endtab %}
 
 {% tab title="iCloud" %}
-## Click Here To Download
+## [Click Here To Download](https://www.icloud.com/iclouddrive/034417zj9Tbh2KL1q\_hWOZ3Gw#Geometry\_Dash\_v2.11)
+{% endtab %}
+
+{% tab title="Cloudflare" %}
+## Its Down.
 {% endtab %}
 {% endtabs %}
 
