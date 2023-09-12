@@ -22,6 +22,7 @@
   * [📶 Surfshark](extensions/surfshark.md)
   * [🌎 Proxy SwitchyOmega](extensions/proxy-switchyomega.md)
   * [🔑 Dashlane](extensions/dashlane.md)
+  * [🍵 Bright Data](extensions/template-extensions.md)
 * [☁ No downloads please](no-downloads-please.md)
   * [ℹ Information](no-downloads-please/information.md)
 * [🌐 List of websites](list-of-websites.md)
