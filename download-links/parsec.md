@@ -25,6 +25,10 @@ Parsec also provides a paid "Parsec for Teams" version with additional features 
 
 ***
 
+### This app requires additional setup, you can see a guide [here.](../setup/parsec-host.md)
+
+***
+
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}
