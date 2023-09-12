@@ -11,6 +11,7 @@
   * [🌐 Brave](download-links/brave.md)
   * [🌐 Maxthon](download-links/maxthon.md)
   * [🌐 Waterfox](download-links/waterfox.md)
+  * [🎥 OBS](download-links/template.md)
 * [🔨 How to install](how-to-install/README.md)
   * [📐 How to run programs that normally won't run.](how-to-install/how-to-run-programs-that-normally-wont-run..md)
   * [🟢 How to run GeforceNOW on school computer (Fortnite, RS6, Genshin)](how-to-install/how-to-run-geforcenow-on-school-computer-fortnite-rs6-genshin.md)
