@@ -45,6 +45,14 @@ WinRAR (a.k.a. RAR) is a shareware file archiver and data compression program cr
 {% tab title="Discord" %}
 ## [Click Here To Download](https://cdn.discordapp.com/attachments/1113994556787146843/1150911979259703366/winrar.zip)
 {% endtab %}
+
+{% tab title="Drive" %}
+## [Click Here To Download](https://drive.google.com/file/d/1p-2sJKJS\_SSkpMeuA6qU04uEli0FO6qT/view?usp=drive\_link)
+{% endtab %}
+
+{% tab title="iCloud" %}
+## [Click Here To Download](https://www.icloud.com/iclouddrive/075tcxo\_d2ZpR\_IvOWnw-pUTw#winrar)
+{% endtab %}
 {% endtabs %}
 
 ### Done? Check [How to install](../how-to-install/) if you have everything you need.
