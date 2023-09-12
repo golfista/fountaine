@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/capsule_616x353 (1).jpg
-coverY: 63
+coverY: 117.05866666666665
 layout:
   cover:
     visible: true
