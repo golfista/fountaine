@@ -30,16 +30,16 @@ Dashlane is a subscription-based password manager and digital wallet application
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}
+{% tab title="Source" %}
+{% file src="../.gitbook/assets/Dashlane.zip" %}
+{% endtab %}
+
 {% tab title="GitHub" %}
 ## Click Here To Download
 {% endtab %}
 
 {% tab title="GitLab" %}
 ## Click Here To Download
-{% endtab %}
-
-{% tab title="Source" %}
-
 {% endtab %}
 
 {% tab title="OneDrive" %}

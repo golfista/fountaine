@@ -30,16 +30,16 @@ Surfshark is a brand of VPN services offered by a Netherlands-based company\[1] 
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}
+{% tab title="Source" %}
+{% file src="../.gitbook/assets/Surfshark.zip" %}
+{% endtab %}
+
 {% tab title="GitHub" %}
 ## Click Here To Download
 {% endtab %}
 
 {% tab title="GitLab" %}
 ## Click Here To Download
-{% endtab %}
-
-{% tab title="Source" %}
-
 {% endtab %}
 
 {% tab title="OneDrive" %}
