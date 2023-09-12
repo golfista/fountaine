@@ -35,4 +35,4 @@ You can go to [how-to-install](../how-to-install/ "mention") If you have everyth
 
 ***
 
-### You can also do a "Network Test" to see if your class have some network addresses unlocked, to do the test, go to [network-test](../network-test/ "mention").
+### You can also do a "Network Test" to see if your class have some network addresses unlocked, to do the test, go to [network-test-beta](../network-test-beta/ "mention").
