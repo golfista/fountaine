@@ -18,3 +18,5 @@
   * [ℹ Information](no-downloads-please/information.md)
 * [🌐 List of websites](list-of-websites.md)
 * [🙌 Suggestions and Feedback!](suggestions-and-feedback.md)
+* [🚫 Network Test](network-test/README.md)
+  * [Network test](network-test/network-test.md)
