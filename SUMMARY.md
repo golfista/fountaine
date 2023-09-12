@@ -14,6 +14,7 @@
 * [🔨 How to install](how-to-install/README.md)
   * [📐 How to run programs that normally won't run.](how-to-install/how-to-run-programs-that-normally-wont-run..md)
   * [📏 How to install extension on another browser](how-to-install/how-to-install-extension-on-another-browser.md)
+  * [🟢 How to run GeforceNOW on school computer (Fortnite, RS6, Genshin)](how-to-install/how-to-run-geforcenow-on-school-computer-fortnite-rs6-genshin.md)
 * [🗄 Setup](setup.md)
   * [📶 Parsec (Host)](setup/parsec-host.md)
 * [🧩 Extensions](extensions/README.md)
