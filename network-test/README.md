@@ -1,4 +1,4 @@
-# 🚫 Network Test
+# 🚫 Network Test \[BETA]
 
 ## Welcome to the network test!
 
