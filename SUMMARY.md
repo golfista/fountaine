@@ -3,7 +3,6 @@
 * [⭐ Introduction](README.md)
   * [🖇 What you need](introduction/what-you-need.md)
 * [⬇ Download links](download-links.md)
-  * [🗒 Template](download-links/template.md)
   * [📁 WinRAR](download-links/winrar.md)
   * [🎮 GeforceNOW](download-links/geforcenow.md)
   * [🖥 Parsec](download-links/parsec.md)
@@ -21,3 +20,5 @@
 * [🚫 Network Test \[BETA\]](network-test/README.md)
   * [👁🗨 Network test](network-test/network-test.md)
 * [🙌 Suggestions and Feedback!](suggestions-and-feedback.md)
+* [🔞 ignore](ignore/README.md)
+  * [🗒 Template](ignore/template.md)
