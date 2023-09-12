@@ -1,5 +1,4 @@
 ---
-description: ignore pls
 cover: ../.gitbook/assets/cfb9b3eb-858a-45be-92e6-914a8be815c4-focalors-social.jpg
 coverY: 0
 layout:
@@ -18,9 +17,9 @@ layout:
     visible: true
 ---
 
-# 🗒 Template
+# 🧊 Geometry Dash
 
-Wikipedia is a free online encyclopedia website in 334 languages of the world, 323 languages which are currently active and 11 are closed. People can freely use it, share it, and change it, without having to pay. It is also one of the biggest wiki organizations. People can choose to donate to the Wikimedia Foundation to fund Wikipedia and its sister projects. It is an open content website. This means anyone can copy it and make changes to it if they follow the rules for copying or editing.
+Geometry Dash can be played with a touchscreen, keyboard, mouse, or controller. The player manipulates the movement of their icon through input in the form of pressing or holding to reach the end of a level. If the player crashes into an obstacle, such as a spike, a wall or a sawblade, the level restarts from the beginning. There is also a "practice mode" in which a player may place checkpoints to survey or practice a level, but is unable to collect coins or gain progress for normal mode. The timing and rhythm of the in-game music are key parts of the game, often in relation to each other.
 
 ***
 

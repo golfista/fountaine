@@ -7,6 +7,7 @@
   * [🎮 GeforceNOW](download-links/geforcenow.md)
   * [🖥 Parsec](download-links/parsec.md)
   * [♋ SKLauncher (Minecraft)](download-links/sklauncher-minecraft.md)
+  * [🧊 Geometry Dash](download-links/geometry-dash.md)
   * [🌐 Brave](download-links/brave.md)
   * [🌐 Maxthon](download-links/maxthon.md)
   * [🌐 Waterfox](download-links/waterfox.md)
