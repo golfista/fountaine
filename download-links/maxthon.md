@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/maxthon-logo-BA.jpg
 coverY: 0
 layout:
   cover:

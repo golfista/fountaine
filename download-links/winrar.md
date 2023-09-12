@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/winrar-hero-getty.webp
 coverY: 0
 layout:
   cover:

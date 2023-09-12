@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/02-nvidia-logo-color-grn-500x200-4c25-p@2x.png
+coverY: 44
 layout:
   cover:
     visible: true

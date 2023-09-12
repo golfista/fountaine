@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/brave-logo-800x800.png
 coverY: 0
 layout:
   cover:

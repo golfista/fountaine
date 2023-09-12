@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/Logo-Waterfox.webp
+coverY: -10
 layout:
   cover:
     visible: true

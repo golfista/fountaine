@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/parsec-logo.avif
+coverY: 8
 layout:
   cover:
     visible: true
