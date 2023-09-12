@@ -1,6 +1,7 @@
 ---
 description: This will guide you to setup parsec in your home computer or rented computer.
-coverY: 0
+cover: ../.gitbook/assets/top-10-benefits-of-a-gaming-router (1)1618950737757863.avif
+coverY: -116
 layout:
   cover:
     visible: true
