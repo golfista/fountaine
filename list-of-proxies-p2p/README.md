@@ -42,7 +42,7 @@ Here is a list of our custom hosted proxies, and third party ones too.
 
 <details>
 
-<summary>prx1.cantv.us:3135</summary>
+<summary>prx1.cantv.us:3135 - North Virginia, VA</summary>
 
 Username: username
 
@@ -52,7 +52,17 @@ Password: test123
 
 <details>
 
-<summary>prx2.cantv.us:3135</summary>
+<summary>prx2.cantv.us:3135 - North Virginia, VA</summary>
+
+Username: username
+
+Password: test123
+
+</details>
+
+<details>
+
+<summary>prx3.cantv.us:3132 - Atlanta, GA</summary>
 
 Username: username
 
