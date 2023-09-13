@@ -84,6 +84,6 @@ After that, you will see the extensions config GUI, to import the profile, go to
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
-Hit "Restore", connect, and you should be ready to connect!
+Hit "Restore", connect, and you should be ready to browse!
 
 <figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
