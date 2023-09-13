@@ -18,3 +18,10 @@ layout:
 
 # 🔱 Setup proxies on Proxy SwitchOmega
 
+## You need to get one proxy either on [.](./ "mention") or another 3rd party website.
+
+***
+
+## You can find out how to install extensions [here.](../how-to-install/how-to-install-extension-on-another-browser.md)
+
+***
