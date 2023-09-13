@@ -19,7 +19,7 @@ layout:
 
 # 🖇 What you need
 
-## Yes, [WinRAR](../download-links/winrar.md) is a requirement if you want to download stuff.
+## Yes, [WinRAR](../download-links/winrar.md) is a requirement if you want to download stuff. (There are exeptions like [SKLauncher](../download-links/sklauncher-minecraft.md))
 
 ***
 
