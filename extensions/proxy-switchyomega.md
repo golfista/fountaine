@@ -27,6 +27,10 @@ Manage and switch between multiple proxies quickly & easily.
 
 ***
 
+### This app requires additional setup, you can see a guide [here.](../list-of-proxies-p2p/setup-proxies-on-proxy-switchomega.md)
+
+***
+
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}

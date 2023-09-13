@@ -6,3 +6,5 @@ coverY: 0
 # 🟢 How to run GeforceNOW on school computer (Fortnite, RS6, Genshin)
 
 ## CURRENTLY TESTING ‼‼‼‼‼‼‼
+
+Update 9/12/23 - GeforceNOW App opens but doesnt load, trying to find a workaround for this.

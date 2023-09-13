@@ -1,5 +1,4 @@
 ---
-cover: .gitbook/assets/bf5MdUZkm2XA5ajgVIztMBkqLBz2-c993o39.jpeg
 coverY: 0
 layout:
   cover:
@@ -17,5 +16,5 @@ layout:
     visible: true
 ---
 
-# 🚘 List of proxies (p2p)
+# 🔱 Setup proxies on Proxy SwitchOmega
 
