@@ -21,11 +21,21 @@ layout:
 
 ***
 
-### You can download the configuration file down below for [Proxy SwitchOmega](../extensions/proxy-switchyomega.md)
+### You can get the url or file for the configuration file down below for [Proxy SwitchOmega](../extensions/proxy-switchyomega.md)
 
+
+
+{% tabs %}
+{% tab title="GitLab URL" %}
+```
+https://gitlab.com/fozalors/fountaine/-/raw/main/apps/OmegaOptions.bak?inline=false
+```
+{% endtab %}
+
+{% tab title="File Download" %}
 {% file src="../.gitbook/assets/OmegaOptions.bak" %}
-[How to setup guide](setup-proxies-on-proxy-switchomega.md)
-{% endfile %}
+{% endtab %}
+{% endtabs %}
 
 ***
 
