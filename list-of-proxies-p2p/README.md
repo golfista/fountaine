@@ -28,16 +28,12 @@ layout:
 {% tabs %}
 {% tab title="GitLab URL" %}
 ```
-https://gitlab.com/fozalors/fountaine/-/raw/main/apps/OmegaOptions.bak?inline=false
+https://gitlab.com/fozalors/fountaine/-/raw/main/apps/OmegaOptions.bak
 ```
 {% endtab %}
 
 {% tab title="File Download" %}
-{% file src="../.gitbook/assets/OmegaOptions.bak" %}
-{% endtab %}
 {% endtabs %}
-
-***
 
 Here is a list of our custom hosted proxies, and third party ones too.
 
