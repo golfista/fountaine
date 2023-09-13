@@ -23,6 +23,10 @@ Maxthon is a freeware web browser, created by JeffChen in Singapore. It is avail
 
 ***
 
+## You don't need [WinRAR](winrar.md) for this.
+
+***
+
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}

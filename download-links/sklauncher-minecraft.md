@@ -23,6 +23,10 @@ SKLauncher provides a user-friendly interface for players to customize their Min
 
 ***
 
+## You don't need [WinRAR](winrar.md) for this.
+
+***
+
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}

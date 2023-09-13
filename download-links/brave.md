@@ -23,6 +23,10 @@ Brave is a free and open-source web browser developed by Brave Software, Inc. ba
 
 ***
 
+## You don't need [WinRAR](winrar.md) for this.
+
+***
+
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
 
 {% tabs %}
