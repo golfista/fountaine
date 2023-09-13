@@ -34,3 +34,4 @@
 * [🔞 ignore](ignore/README.md)
   * [🗒 Template](ignore/template.md)
   * [🗒 Template Extensions](ignore/template-extensions.md)
+  * [testing files](ignore/testing-files.md)
