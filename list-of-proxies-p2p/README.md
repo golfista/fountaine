@@ -32,7 +32,7 @@ layout:
 {% endtab %}
 
 {% tab title="File Download" %}
-
+{% file src="../.gitbook/assets/OmegaOptions.bak" %}
 {% endtab %}
 {% endtabs %}
 
