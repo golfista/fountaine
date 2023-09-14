@@ -5,6 +5,12 @@ coverY: 0
 
 # 🌐 List of websites
 
+***
+
+## If any of the websites here don't work, go to [ub.cantv.us](https://ub.cantv.us) and you should be able to access it.
+
+***
+
 ## List of websites
 
 Ordered from most famous to least famous.
