@@ -24,7 +24,7 @@ layout:
 
 ***
 
-## You need an Amazon Prime membership or Luna+ subscription (you can share Prime between two accounts)
+## You need an Amazon Prime membership or Luna+ subscription [(you can share Prime between two accounts)](../list-of-websites/share-amazon-prime.md)
 
 ***
 

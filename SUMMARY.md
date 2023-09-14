@@ -28,6 +28,7 @@
   * [ℹ Information](no-downloads-please/information.md)
 * [🌐 List of websites](list-of-websites.md)
   * [🌙 Amazon Luna Tutorial](no-downloads-please/amazon-luna-tutorial.md)
+  * [💸 Share Amazon Prime](list-of-websites/share-amazon-prime.md)
 * [🚘 List of proxies (p2p) NOT WORKING](list-of-proxies-p2p-not-working/README.md)
   * [🔱 Setup proxies on Proxy SwitchOmega](list-of-proxies-p2p-not-working/setup-proxies-on-proxy-switchomega.md)
 * [🚫 Network Test \[BETA\]](network-test/README.md)
