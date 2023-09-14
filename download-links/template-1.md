@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/tlauncher-love-img (1).webp
-coverY: 56
+coverY: 110.05866666666665
 layout:
   cover:
     visible: true
