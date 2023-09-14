@@ -22,7 +22,7 @@ layout:
 
 # ⭐ Introduction
 
-This series of files lets you play Fortnite on GeforceNOW (free), Amazon Luna (Prime, Paid), Boosteroid (Paid), or Parsec! (self-hosted).\
+This series of files lets you play Fortnite on GeforceNOW (free), [Amazon Luna](no-downloads-please/amazon-luna-tutorial.md) (Prime, Paid), Boosteroid (Paid), or Parsec! (self-hosted).\
 \
 It also lets you bypass school websites restrictions, uninstall lanschool, or completly make your computer kind of untrackable.\
 \

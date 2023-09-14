@@ -27,7 +27,11 @@ layout:
 
 ***
 
-### The most downloaded files are [WinRAR](../download-links/winrar.md), [SKLauncher](../download-links/sklauncher-minecraft.md) (Minecraft), Five Nights At Freddy's (1-7), and [GeforceNOW](../download-links/geforcenow.md).  However if you like, you can more stuff like an alternate web browser like [Maxthon](../download-links/maxthon.md) or [Waterfox](../download-links/waterfox.md).
+### Most visited websites are [luna.amazon.com](https://luna.amazon.com), [ub.cantv.us](https://ub.cantv.us) and [shiho.vercel.app](https://shinonome.vercel.app).
+
+### The most visited tutorials are [amazon-luna-tutorial.md](../no-downloads-please/amazon-luna-tutorial.md "mention"), [how-to-run-programs-that-normally-wont-run..md](../how-to-install/how-to-run-programs-that-normally-wont-run..md "mention") and [how-to-install-extension-on-another-browser.md](../how-to-install/how-to-install-extension-on-another-browser.md "mention").  However if you like, you can more stuff like an alternate web browser like [Maxthon](../download-links/maxthon.md) or [Waterfox](../download-links/waterfox.md).
+
+### The most downloaded files are [WinRAR](../download-links/winrar.md), [SKLauncher](../download-links/sklauncher-minecraft.md) (Minecraft), Five Nights At Freddy's (1-7), and [GeforceNOW](../download-links/geforcenow.md).
 
 {% content-ref url="../extensions/" %}
 [extensions](../extensions/)
