@@ -47,15 +47,15 @@ Wikipedia is a free online encyclopedia website in 334 languages of the world, 3
 ## Click Here To Download
 {% endtab %}
 
-{% tab title="Cloudflare" %}
-## Click Here To Download
-{% endtab %}
-
 {% tab title="Drive" %}
 ## Click Here To Download
 {% endtab %}
 
 {% tab title="iCloud" %}
+## Click Here To Download
+{% endtab %}
+
+{% tab title="Cloudflare" %}
 ## Click Here To Download
 {% endtab %}
 {% endtabs %}

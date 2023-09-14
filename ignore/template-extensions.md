@@ -51,15 +51,15 @@ chrome/edge webstore url here
 ## Click Here To Download
 {% endtab %}
 
-{% tab title="Cloudflare" %}
-## Click Here To Download
-{% endtab %}
-
 {% tab title="Drive" %}
 ## Click Here To Download
 {% endtab %}
 
 {% tab title="iCloud" %}
+## Click Here To Download
+{% endtab %}
+
+{% tab title="Cloudflare" %}
 ## Click Here To Download
 {% endtab %}
 {% endtabs %}

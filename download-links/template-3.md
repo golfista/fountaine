@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/HD-wallpaper-video-game-osu.jpg
-coverY: 35
+coverY: 77.47466666666666
 layout:
   cover:
     visible: true
