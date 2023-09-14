@@ -1,6 +1,8 @@
 ---
 description: school computer of course
-coverY: 477
+cover: >-
+  ../.gitbook/assets/march-7th-honkai-star-rail-4k-wallpaper-uhdpaper.com-588@1@k.jpg
+coverY: 59
 layout:
   cover:
     visible: true
