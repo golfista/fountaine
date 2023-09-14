@@ -1,6 +1,7 @@
 ---
 description: This one is pretty easy.
-coverY: 0
+cover: ../.gitbook/assets/1_9bhPrXzQUOzukTS5_orJLA.jpg
+coverY: 29
 layout:
   cover:
     visible: true
@@ -23,7 +24,7 @@ layout:
 
 ***
 
-## You need an Amazon Prime membership (you can share between two accounts)
+## You need an Amazon Prime membership or Luna+ subscription (you can share Prime between two accounts)
 
 ***
 
