@@ -27,7 +27,7 @@ Manage and switch between multiple proxies quickly & easily.
 
 ***
 
-### This app requires additional setup, you can see a guide [here.](../list-of-proxies-p2p/setup-proxies-on-proxy-switchomega.md)
+### This app requires additional setup, you can see a guide [here.](../list-of-proxies-p2p-not-working/setup-proxies-on-proxy-switchomega.md)
 
 ***
 
