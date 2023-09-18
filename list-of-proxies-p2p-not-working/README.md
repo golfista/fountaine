@@ -29,7 +29,7 @@ layout:
 
 ### You can get the url or file for the configuration file down below for [Proxy SwitchOmega](../extensions/proxy-switchyomega.md)
 
-
+{% embed url="https://www.youtube.com/watch?v=FtutLA63Cp8" %}
 
 {% tabs %}
 {% tab title="GitLab URL" %}

@@ -23,6 +23,7 @@
     * [🤖 Five Nights At Freddy's: Sister Location (5)](download-links/five-nights-at-freddys/template-4.md)
     * [💫 Freddy Fazbear's Pizzeria Simulator (FNAF 6)](download-links/five-nights-at-freddys/template-5.md)
     * [🌙 Ultimate Custom Night (FNAF 7)](download-links/five-nights-at-freddys/template-6.md)
+  * [📂 Explorer++](download-links/template-4.md)
 * [🔨 How to install](how-to-install/README.md)
   * [📐 How to run programs that normally won't run](how-to-install/how-to-run-programs-that-normally-wont-run..md)
   * [🟢 How to run GeforceNOW on school computer (Fortnite, RS6, Genshin)](how-to-install/how-to-run-geforcenow-on-school-computer-fortnite-rs6-genshin.md)
