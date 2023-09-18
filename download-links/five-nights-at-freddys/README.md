@@ -35,14 +35,14 @@ Ordered from release date.
 
 {% tabs %}
 {% tab title="OneDrive" %}
-
+## [Click Here To Download](https://1drv.ms/u/s!AkX2q12uku0fgfEWBSkyPbrhe99new?e=feabgN)
 {% endtab %}
 
 {% tab title="Drive" %}
-
+## [Click Here To Download](https://drive.google.com/file/d/1JdLV8uANeKY3LBduYjk8s0G63cKNXy3L/view?usp=drive\_link)
 {% endtab %}
 
 {% tab title="iCloud" %}
-
+## [Click Here To Download](https://www.icloud.com/iclouddrive/050lfxIHW41IL8XxueJ-q2OKQ#All\_FNAF's)
 {% endtab %}
 {% endtabs %}
