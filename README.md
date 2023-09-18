@@ -36,5 +36,5 @@ More Info/Instructions: [https://i.cantv.us/](https://i.cantv.us/)
 ***
 
 {% hint style="danger" %}
-### I am NOT responsible for any of the actions that you do with this set of software/tools, if you get in trouble is not my fault.
+### Disclaimer: I am NOT responsible for any of the actions that you do with this set of software/tools, if you get in trouble is not my fault.
 {% endhint %}
