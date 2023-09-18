@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/cfb9b3eb-858a-45be-92e6-914a8be815c4-focalors-social.jpg
+cover: ../../.gitbook/assets/71Pib7x9NbL.jpg
 coverY: 0
 layout:
   cover:
@@ -19,7 +19,7 @@ layout:
 
 # 🐇 Five Nights At Freddy's 3
 
-Wikipedia is a free online encyclopedia website in 334 languages of the world, 323 languages which are currently active and 11 are closed. People can freely use it, share it, and change it, without having to pay. It is also one of the biggest wiki organizations. People can choose to donate to the Wikimedia Foundation to fund Wikipedia and its sister projects. It is an open content website. This means anyone can copy it and make changes to it if they follow the rules for copying or editing.
+Five Nights at Freddy's 3 (FNaF 3) is a point-and-click survival horror video game developed and published by Scott Cawthon. It is the third installment in the Five Nights at Freddy's series, and chronologically takes place thirty years after the events of the first game, in a horror-themed attraction based on the chain of restaurants featured in the first two games. The player takes on the role of an unnamed security guard who must defend themself from a decrepit animatronic called Springtrap that roams the attraction while battling hallucinations of other whithered animatronics.
 
 ***
 

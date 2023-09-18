@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/cfb9b3eb-858a-45be-92e6-914a8be815c4-focalors-social.jpg
+cover: ../../.gitbook/assets/hero (1).jpg
 coverY: 0
 layout:
   cover:
@@ -19,7 +19,7 @@ layout:
 
 # 🐻 Five Nights At Freddy's
 
-Wikipedia is a free online encyclopedia website in 334 languages of the world, 323 languages which are currently active and 11 are closed. People can freely use it, share it, and change it, without having to pay. It is also one of the biggest wiki organizations. People can choose to donate to the Wikimedia Foundation to fund Wikipedia and its sister projects. It is an open content website. This means anyone can copy it and make changes to it if they follow the rules for copying or editing.
+Five Nights at Freddy's (FNaF) is a video game series and media franchise created by Scott Cawthon. The first video game of the same name was released on August 8, 2014, and the resultant series has since gained worldwide popularity.
 
 ***
 

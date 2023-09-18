@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/cfb9b3eb-858a-45be-92e6-914a8be815c4-focalors-social.jpg
+cover: ../../.gitbook/assets/capsule_616x353 (2).jpg
 coverY: 0
 layout:
   cover:
@@ -19,7 +19,7 @@ layout:
 
 # 🌙 Ultimate Custom Night (FNAF 7)
 
-Wikipedia is a free online encyclopedia website in 334 languages of the world, 323 languages which are currently active and 11 are closed. People can freely use it, share it, and change it, without having to pay. It is also one of the biggest wiki organizations. People can choose to donate to the Wikimedia Foundation to fund Wikipedia and its sister projects. It is an open content website. This means anyone can copy it and make changes to it if they follow the rules for copying or editing.
+Ultimate Custom Night is a freeware point-and-click survival horror video game developed and published by Scott Cawthon. It is the second spin-off installment in the Five Nights at Freddy's series and the eighth game overall. Featuring over 50 characters from the previous games to fend off against, players can customize each antagonist's difficulty level to either facilitate or hinder survival. They can also customize their office room, and complete various challenges presented by the game.
 
 ***
 

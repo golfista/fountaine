@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/cfb9b3eb-858a-45be-92e6-914a8be815c4-focalors-social.jpg
+cover: ../../.gitbook/assets/hero.jpg
 coverY: 0
 layout:
   cover:
@@ -19,7 +19,7 @@ layout:
 
 # 💫 Freddy Fazbear's Pizzeria Simulator (FNAF 6)
 
-Wikipedia is a free online encyclopedia website in 334 languages of the world, 323 languages which are currently active and 11 are closed. People can freely use it, share it, and change it, without having to pay. It is also one of the biggest wiki organizations. People can choose to donate to the Wikimedia Foundation to fund Wikipedia and its sister projects. It is an open content website. This means anyone can copy it and make changes to it if they follow the rules for copying or editing.
+Freddy Fazbear's Pizzeria Simulator\[b] is a point-and-click business simulation survival horror video game developed and published by Scott Cawthon. The game is free on Game Jolt for the Windows platform. Released on December 4, 2017, on Steam and Game Jolt, it is the sixth main installment of the Five Nights at Freddy's video game series, the seventh game overall, and is chronologically set after the events of the third game. Initially marketed as a simulation game where the player manages their own franchised pizzeria, the game is gradually revealed to continue its predecessors' concept of surviving against hostile animatronic characters for multiple nights in a row.
 
 ***
 
