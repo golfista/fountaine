@@ -23,7 +23,9 @@ WinRAR (a.k.a. RAR) is a shareware file archiver and data compression program cr
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

@@ -20,11 +20,15 @@ layout:
 
 # 🌙 Amazon Luna Tutorial
 
+{% hint style="info" %}
 ## You just go to [luna.amazon.com](https://luna.amazon.com) to see if it is unblocked (should be), if its not, you can go to [luna proxied](https://ub.cantv.us/uv/service/hvtrs8%2F-lwnc.cmczmn%2Ccmm-), but you will have a lot of imput lag.
+{% endhint %}
 
 ***
 
+{% hint style="warning" %}
 ## You need an Amazon Prime membership or Luna+ subscription [(you can share Prime between two accounts)](../list-of-websites/share-amazon-prime.md)
+{% endhint %}
 
 ***
 

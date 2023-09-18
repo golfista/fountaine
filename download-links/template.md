@@ -23,7 +23,9 @@ Prism Launcher is a custom launcher for Minecraft that allows you to easily mana
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

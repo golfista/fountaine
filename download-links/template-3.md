@@ -27,7 +27,9 @@ osu! has 4 game modes, osu!standard, osu!taiko, osu!catch and osu!mania. osu!sta
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

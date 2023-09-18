@@ -27,7 +27,9 @@ Maxthon is a freeware web browser, created by JeffChen in Singapore. It is avail
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

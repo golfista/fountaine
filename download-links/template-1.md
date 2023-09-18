@@ -23,7 +23,9 @@ The launcher is complete with all the available game versions from the developer
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

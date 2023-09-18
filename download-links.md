@@ -31,7 +31,9 @@ Ordered from most famous to least famous.
 
 ***
 
-## Some people on some classes/computers/accounts may have access to services like GeforceNOW, so we recommend to try going to the website first to make sure it works, and if it does, you don't need to do anything of this stuff, unless you want too.
+{% hint style="info" %}
+### Some people on some classes/computers/accounts may have access to services like GeforceNOW, so we recommend to try going to the website first to make sure it works, and if it does, you don't need to do anything of this stuff, unless you want too.
+{% endhint %}
 
 {% embed url="https://play.geforcenow.com" %}
 

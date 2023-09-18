@@ -23,7 +23,9 @@ Geometry Dash can be played with a touchscreen, keyboard, mouse, or controller. 
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

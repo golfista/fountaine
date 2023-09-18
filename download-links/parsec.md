@@ -29,27 +29,29 @@ Parsec also provides a paid "Parsec for Teams" version with additional features 
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}
-## [Click Here To Download](https://gitlab.com/fozalors/fountaine/-/raw/main/apps/parsec-win.zip)
+## [Click Here To Download](https://gitlab.com/fozalors/fountaine/-/raw/main/apps/parsec-flat-windows.zip)
 {% endtab %}
 
 {% tab title="GitHub" %}
-## [Click Here To Download](https://github.com/golfista/fountaine/raw/main/apps/parsec-win.zip)
+## [Click Here To Download](https://github.com/golfista/fountaine/raw/main/apps/parsec-flat-windows.zip)
 {% endtab %}
 
 {% tab title="Source" %}
-{% file src="../.gitbook/assets/parsec-win.zip" %}
+{% file src="../.gitbook/assets/parsec-flat-windows.zip" %}
 {% endtab %}
 
 {% tab title="OneDrive" %}
-## [Click Here To Download](https://1drv.ms/u/s!AkX2q12uku0fgfByAsZpk\_ENoOVoRg?e=ApFC4B)
+## [Click Here To Download](https://1drv.ms/u/s!AkX2q12uku0fgfEK4fWxF5FzQFP6QA?e=nDaQR4)
 {% endtab %}
 
 {% tab title="Discord" %}
-## [Click Here To Download](https://cdn.discordapp.com/attachments/1113994556787146843/1150919453635268732/parsec-win.zip)
+## [Click Here To Download](https://cdn.discordapp.com/attachments/1113994556787146843/1153159247333441596/parsec-flat-windows.zip)
 {% endtab %}
 {% endtabs %}
 

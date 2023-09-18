@@ -21,7 +21,9 @@ layout:
 
 # 🖇 What you need
 
-## Yes, [WinRAR](../download-links/winrar.md) is a requirement if you want to download stuff. (There are exeptions like [SKLauncher](../download-links/sklauncher-minecraft.md))
+{% hint style="info" %}
+## [WinRAR](../download-links/winrar.md) is a requirement if you want to download stuff. (There are exeptions like [SKLauncher](../download-links/sklauncher-minecraft.md))
+{% endhint %}
 
 ***
 
@@ -45,4 +47,6 @@ You can go to [how-to-install](../how-to-install/ "mention") If you have everyth
 
 ***
 
+{% hint style="info" %}
 ### You can also do a "Network Test" to see if your class have some network addresses unlocked, to do the test, go to [network-test](../network-test/ "mention").
+{% endhint %}

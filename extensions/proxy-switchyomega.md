@@ -31,7 +31,9 @@ Manage and switch between multiple proxies quickly & easily.
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="Source" %}

@@ -27,7 +27,9 @@ Waterfox is a free and open-source web browser and fork of Firefox. It claims to
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

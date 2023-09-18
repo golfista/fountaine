@@ -23,7 +23,9 @@ GeForce Now (stylized as GeForce NOW) is the brand used by Nvidia for its cloud 
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

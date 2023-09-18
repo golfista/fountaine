@@ -24,7 +24,9 @@ Wikipedia is a free online encyclopedia website in 334 languages of the world, 3
 
 ***
 
+{% hint style="info" %}
 ### If you can't download with GitHub, use GitLab (for students on SHS use GitLab or OneDrive)
+{% endhint %}
 
 {% tabs %}
 {% tab title="GitLab" %}

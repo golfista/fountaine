@@ -7,7 +7,9 @@ coverY: 0
 
 ***
 
+{% hint style="warning" %}
 ## If any of the websites here don't work, go to [ub.cantv.us](https://ub.cantv.us) and you should be able to access it.
+{% endhint %}
 
 ***
 
